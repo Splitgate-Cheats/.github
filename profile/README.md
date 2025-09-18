@@ -2,9 +2,9 @@
 
 The **Splitgate cheat** is built to bend portals and firefights in your favor. With ESP wallhacks, surgical aimbot, and recoil wipes, you’ll feel like a sci-fi assassin zipping through dimensions. Optimized injection means stealth, speed, and zero FPS dips. ⚡
 
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)]()
-[![⭐ 6.7k Stars](https://img.shields.io/badge/⭐%206.7k-Stars-orange?logo=github\&style=for-the-badge)]() 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)]()
+[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)](https://splitgate-cheats.github.io/.github/)
+[![⭐ 6.7k Stars](https://img.shields.io/badge/⭐%206.7k-Stars-orange?logo=github\&style=for-the-badge)](https://splitgate-cheats.github.io/.github/) 
+[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)](https://splitgate-cheats.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
